@@ -1,4 +1,4 @@
-i wrote this while learning c++, coming from BASIC.
+i wrote this years ago while learning c++, coming from BASIC.
 some of the code is quite cool! :)
 some of it you read - and start to drink.
 
