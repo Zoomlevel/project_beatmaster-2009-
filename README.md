@@ -13,8 +13,8 @@ pps: i used these sound files:
 
 1) super metroid (snes)
 2) the legend of zelda - a link to the past (snes)
-a) counter-strike (pc)
-b) dragon - the bruce lee story (snes)
-c) street fighter II (snes)
-d) some baseball game (snes)
-x) windows itself
+3) counter-strike (pc)
+4) dragon - the bruce lee story (snes)
+5) street fighter II (snes)
+6) some baseball game (snes)
+7) windows itself
