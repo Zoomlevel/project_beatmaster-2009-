@@ -20,7 +20,8 @@ pps: i used these sound files and do not own any copyright.
 4) dragon - the bruce lee story (snes)
 5) street fighter II (snes)
 6) some baseball game (snes)
-7) early windows sounds
+7) windows system sounds
 
-ppps: this is basically my interpretation of the fighting style of jeet kune do.
-while sitting at a computer and only moving your wrists.
+ppps: could be fun to be played online.
+
+pppps: the taunts! :D
