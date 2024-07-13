@@ -1,7 +1,6 @@
 download: https://fastupload.io/8269c45fec0419cb
 
-screenshot:
-https://x.com/KZeghida
+screenshot: https://ibb.co/K2p7W8Y
 
 i wrote this years ago while learning c++, coming from BASIC.
 some of the code is quite cool! :)
