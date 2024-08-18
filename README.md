@@ -1,4 +1,4 @@
-download: https://fastupload.io/8269c45fec0419cb
+download: [something went wrong, have to update this later]
 
 screenshot: https://ibb.co/K2p7W8Y
 
